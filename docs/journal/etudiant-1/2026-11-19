@@ -1,0 +1,18 @@
+---
+layout: default
+title: "2026-11-19"
+parent: Emma
+grand_parent: Journal de bord
+---
+**Séance 3:** planifiée · **Durée :** 1h30
+
+## Fait
+Module 1, 2: Instalation VSC, PlatformIO et Pio
+Avec les tests conseilés pour compiler cide et upload sur esp.
+
+## Pourquoi
+Lociciel important pour importer code dans ESP32-S3.
+Et nous permet d'apprendre les manipulation de base sur un esp.
+
+## Reste à faire
+continer de progresser à travers les exercies presents dans les slides
