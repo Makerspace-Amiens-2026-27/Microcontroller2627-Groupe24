@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "makerspace") (type "KiCad") (uri "/Users/lilomarouf/Desktop/ms/microcontrolleur/kicad-library-main/footprint/makerspace.pretty") (options "") (descr ""))
+)
