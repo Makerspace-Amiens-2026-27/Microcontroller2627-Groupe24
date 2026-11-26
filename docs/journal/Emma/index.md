@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Étudiant 1
+title: Emma
 parent: Journal de bord
 has_children: true
 ---
